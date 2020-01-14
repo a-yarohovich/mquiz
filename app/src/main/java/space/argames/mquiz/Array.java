@@ -1,6 +1,6 @@
 package space.argames.mquiz;
 
-public class Array {
+class Array {
     static final int[] imgs = {
             R.drawable.onelevel_zero,
             R.drawable.onelevel_one,
