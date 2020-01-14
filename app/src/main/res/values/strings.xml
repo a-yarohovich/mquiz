@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MQuiz</string>
+    <string name="start">Старт</string>
+    <string name="back">Назад</string>
+    <string name="level">Сложность</string>
+    <string name="textcontinue">Продолжить</string>
+</resources>
